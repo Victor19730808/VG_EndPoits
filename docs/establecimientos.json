@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "CANACO SERVYTUR Nuevo Laredo",
+    "direccion": "Avenida Álvaro Obregón 2244, Juarez, Nuevo Laredo, Tamaulipas",
+    "latitud": 27.4791929,
+    "longitud": -99.5123054,
+    "categoria": "Cámara Empresarial"
+  },
+  {
+    "id": 2,
+    "nombre": "Restaurante El Mezquite",
+    "direccion": "Guerrero 1200, Centro, Nuevo Laredo, Tamaulipas",
+    "latitud": 27.483120,
+    "longitud": -99.506220,
+    "categoria": "Restaurantes"
+  }
+]
