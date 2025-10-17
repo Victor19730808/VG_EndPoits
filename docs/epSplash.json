@@ -1,7 +1,7 @@
 {
   "headerCaption": "El Buen Fin 2025",
   "headerFontSize": 20,
-  "themeControlVisible": false,
+  "themeControlVisible": true,
   "themeDefault": "buenFin",
   "compositionCirclePercent": 0.40,
   "footerTitleL1": "IMPULSANDO EL CRECIMIENTO  abc",
